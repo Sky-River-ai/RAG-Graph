@@ -9,7 +9,7 @@ my_connector = MySQLConnector(
         "port":3306,
         "database":"customer_behavior",
         "username":"root",
-        "password":"Grelb5MPamz113wfuv",
+        "password":"",
         "table":"customer",
     }
 )
